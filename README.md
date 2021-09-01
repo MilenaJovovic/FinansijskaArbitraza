@@ -31,3 +31,6 @@ Za svaku državu smo primjenili 4 već navedena modela i u isto vrijeme prošli 
 Greška koju smo računali za modele je srednja kvadratna greška. Ispostavlja se da je optimalni broj klastera = 5, a model koji najbolje predvidja je model slučajne šume.
  
 
+
+
+Link do cijelog direktorijuma je https://drive.google.com/file/d/1O7gaPTLriWiHGuFX8ZUBZXyYlNPImGY3/view?usp=sharing
